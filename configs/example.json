@@ -1,0 +1,12 @@
+{
+    "name": "fabric",
+    "address": {
+        "city": "London",
+        "street": "Valencia",
+        "postcode": "123"
+    },
+    "contact": {
+        "phone": "123",
+        "email": "email@example.com"
+    }
+}

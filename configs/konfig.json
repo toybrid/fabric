@@ -1,0 +1,9 @@
+{
+    "resolve_tree":[
+        "$TB_KONFIG_RELEASE_PATH/studio/packages",
+        "$TB_KONFIG_RELEASE_PATH/projects/$TB_PROJECT/packages",
+        "$TB_KONFIG_RELEASE_PATH/projects/$TB_PROJECT/sequences/$TB_SEQ/packages",
+        "~/.toybrid/konfig/packages"
+    ],
+    "release_path" : ""
+}
